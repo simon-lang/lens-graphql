@@ -1,0 +1,15 @@
+{
+  "name": "graphql-elastic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.35",
+    "elasticsearch": "https://github.com/slackday/elasticsearch-js-legacy.git",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-compose": "^7.25.1",
+    "graphql-compose-elasticsearch": "^4.0.10"
+  }
+}
